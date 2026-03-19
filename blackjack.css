@@ -1,0 +1,13 @@
+#player, #dealer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+img {
+    width: 100px;
+    height: auto;
+    margin: 5px;
+}
